@@ -15,3 +15,4 @@ This project is configured for PlatformIO with the Arduino Uno board.
 ## Notes
 
 The code in this repository is intended for simple practice and experimentation with Arduino and C-style logic.
+
