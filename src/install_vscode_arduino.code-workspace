@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../install_vscode_arduino"
+		},
+		{
+			"name": "hello_arduino",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
