@@ -4,4 +4,4 @@
 * [(1)04_09_Nazar_Popovych.c](src/(1)04_09_Nazar_Popovych.c) - check if age is even or odd.
 * [(2)04_09_Nazar_Popovych.c](src/(2)04_09_Nazar_Popovych.c) - print a name and its first and last letters.
 * [08_09_Nazar_Popovych.c](src/08_09_Nazar_Popovych.c) - input your grades, check if they are good/bad, and print out their sum and average.
-* [22_09_Nazar_Popovych.c](src/22_09_Nazar_Popovych.c) - demonstrate OR, XOR, and NAND logic operations.
+* [22_09_Nazar_Popovych.c](src/22_09_Nazar_Popovych.c) - OR, XOR, and NAND logic operations.
