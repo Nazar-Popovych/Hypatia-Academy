@@ -8,3 +8,9 @@ The thing is that the currents going in the node are positive, and those going o
 $\sum_{n=1}^{M} i_n = - \sum_{n=M+1}^{N} i_n$
 
 $\sum_{n=1}^{M} i_n + \sum_{n=M+1}^{N} i_n = 0$
+
+Using the interval partitioning property of sigma notation, 
+
+$\sum_{n=1}^{M} i_n + \sum_{n=M+1}^{N} i_n = \sum_{n=1}^{N} i_n$ 
+
+$\sum_{n=1}^{N} i_n = 0$, which we have already proved in the previous question.
