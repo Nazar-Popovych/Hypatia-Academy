@@ -32,3 +32,15 @@ $\sum_{n=1}^{M} i_n + \sum_{n=M+1}^{N} i_n = 0$
 $\sum_{n=1}^{M} i_n = - \sum_{n=M+1}^{N} i_n$ 
 
 *Q.E.D.* 
+
+For example, having N=4 and M=2, 
+
+$\sum_{n=1}^{4} i_n$ = ($i_{1}$ + $i_{2}$) + ($i_{3}$ + $i_{4}$) = 0 
+($i_{1}$ + $i_{2}$) = -($i_{3}$ + $i_{4}$)
+
+$\sum_{n=1}^{M} i_n$ = $i_{1}$ + $i_{2}$ 
+$\sum_{n=M+1}^{N} i_n$ = $i_{3}$ + $i_{4}$ 
+
+Therefore, 
+$\sum_{n=1}^{M} i_n$ = - $\sum_{n=M+1}^{N} i_n$
+
