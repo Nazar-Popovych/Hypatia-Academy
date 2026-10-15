@@ -46,7 +46,7 @@ $\sum_{n=M+1}^{N} i_n$ = $i_{3}$ + $i_{4}$
 Therefore, 
 $\sum_{n=1}^{M} i_n$ = - $\sum_{n=M+1}^{N} i_n$
 
-Drawing example: 
+**Drawing example: **
 
 <img width="1246" height="700" alt="image" src="https://github.com/user-attachments/assets/eae34726-32c5-46dc-a91f-b4a798b77d98" />
 
