@@ -5,4 +5,4 @@ The thing is that the currents going in the node are positive, and those going o
 
 ## Question 2 
 
-$\sum_{n=1}^{M} i_n = - \sum$_{n=M+1}^{N} i_n$
+$\sum_{n=1}^{M} i_n = - \sum_{n=M+1}^{N} i_n$
