@@ -15,7 +15,7 @@ $\sum_{n=1}^{M} i_n + \sum_{n=M+1}^{N} i_n = \sum_{n=1}^{N} i_n$
 
 $\sum_{n=1}^{N} i_n = 0$, which we have already proved in the previous question.
 
-#### To make this more explicit 
+#### To make this more explicit:
 
 By KCL, assume 
 
