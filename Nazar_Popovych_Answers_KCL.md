@@ -14,3 +14,9 @@ Using the interval partitioning property of sigma notation,
 $\sum_{n=1}^{M} i_n + \sum_{n=M+1}^{N} i_n = \sum_{n=1}^{N} i_n$ 
 
 $\sum_{n=1}^{N} i_n = 0$, which we have already proved in the previous question.
+
+#### To make this more explicit 
+
+By KCL, assume $\sum_{n=1}^{N} i_n = 0$ 
+
+That can be translated to ($i_{1}$ + $i_{2}$ + ... + $i_{M}$) + ($i_{M+1}$ + $i_{M+2}$ + ... + $i_{N}$) = 0
