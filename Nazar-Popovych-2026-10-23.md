@@ -19,7 +19,7 @@
 | 1 | 1 |  0 |  0  |
 
 1. Which values of x and y make `xy' = 1`?
-   - x has to be 1, while y has to be 0, so that y' is 1, making xy' be 11, which gives 1.
+   - x has to be 1, while y has to be 0, so that y' is 1, making xy' be 1·1, which gives 1.
 
 2. Explain the difference between `xy` and `xy'` in one sentence.
    - To be 1, xy needs both x and y to be 1, while xy' has an inverted y, which requires y to be 0 and x to be 1 for the expression to give 1.
