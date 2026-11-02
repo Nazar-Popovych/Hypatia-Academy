@@ -37,6 +37,7 @@ Therefore, the claim does not hold.
 
 We can prove the statement using proof by contradiction. 
 
-Assume that n is odd. Then, assuming the opposite to the claim, q = n + 1 is also odd. By definition of odd numbers q can be rewritten as q = 2x + 1. 
+Assume that n is odd. Then, assuming the opposite to the claim, q = n + 1 is also odd. 
+By definition of odd numbers q can be rewritten as q = 2x + 1. 
 Then, we get 2x + 1 = n + 1; 2x = n. However, 2x is even for all values of x, while n is supposed to be even. That is a contradiction. 
 Hence, the original statement is true.
