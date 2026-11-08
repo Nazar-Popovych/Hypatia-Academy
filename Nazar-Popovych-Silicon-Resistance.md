@@ -34,15 +34,15 @@ $$
 
 #### №2 
 
-A = 0.01 · 5 · 10<sup>-4</sup> = **5 · 10<sup>-6</sup>**
+A = 0.01 · 5 · 10<sup>-4</sup> = **5 · 10<sup>-6</sup> m^{2}**
 
-$R = 0.1 \cdot \frac{0.02}{5·10^{-6}} =$ **2000 Ω**
+$R = 0.1 \cdot \frac{0.02}{5·10^{-6}} =$ **400 Ω**
 
 #### №3 
 
 V = 1 V
 
-$I = \frac{1}{2000} = 5·10^{-4} A =$ **0.5 mA**
+$I = \frac{1}{400} = 2.5·10^{-3} A =$ **2.5 mA**
 
 #### №4 
 
@@ -60,7 +60,7 @@ we can see that:
 
 - Resistance and thickness are inversely proportional.
 - If thickness decreases, resistance increases.
-- R<sub>new</sub> = 2 · R<sub>old</sub> = **4000 Ω**.
+- R<sub>new</sub> = 2 · R<sub>old</sub> = **800 Ω**.
 
 or 
 
@@ -69,13 +69,13 @@ L<sub>new</sub> = 2 · L<sub>old</sub>
 From the previous formula of resistance we can infer: 
 
 - Resistance and length are proportional.
-- R<sub>new</sub> = 2 · R<sub>old</sub> = **4000 Ω**.
+- R<sub>new</sub> = 2 · R<sub>old</sub> = **800 Ω**.
 
 #### №5 
 
 - $\rho$<sub>new</sub> = 10<sup>-3</sup> · $\rho$<sub>new</sub> = **10<sup>-4</sup> Ω**.
-- R<sub>new</sub> = 10<sup>-3</sup> · R<sub>old</sub> = **2 Ω**.
-- I = \frac{1}{2} = **0.5 A**.
+- R<sub>new</sub> = 10<sup>-3</sup> · R<sub>old</sub> = **0.4 Ω**.
+- I = \frac{1}{2} = **2.5 A**.
 
 - Doping does not by itself change the silicon's physical dimension, such as length, width or thickness, but it does change its resistivity. In particular, as resistivity decreases and as resistance is proportional to it, resistance also decreases.
 
