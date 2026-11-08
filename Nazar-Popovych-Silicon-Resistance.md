@@ -34,7 +34,7 @@ $$
 
 #### №2 
 
-$A = 0.01 · 5 · 10<sup>-4</sup> =$ **5 · 10<sup>-6</sup>**
+A = 0.01 · 5 · 10<sup>-4</sup> = **5 · 10<sup>-6</sup>**
 
 $R = 0.1 \cdot \frac{0.02}{5·10^{-6}} =$ **2000 Ω**
 
@@ -74,7 +74,7 @@ From the previous formula of resistance we can infer:
 #### №5 
 
 - $\rho$<sub>new</sub> = 10<sup>-3</sup> · $\rho$<sub>new</sub> = **10<sup>-4</sup> Ω**.
-- R<sub>new</sub> = 10<sup>-3</sup> · · R<sub>old</sub> = **2 Ω**.
+- R<sub>new</sub> = 10<sup>-3</sup> · R<sub>old</sub> = **2 Ω**.
 - I = \frac{1}{2} = **0.5 A**.
 
 - Doping does not by itself change the silicon's physical dimension, such as length, width or thickness, but it does change its resistivity. In particular, as resistivity decreases and as resistance is proportional to it, resistance also decreases.
