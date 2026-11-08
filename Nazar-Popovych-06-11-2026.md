@@ -10,7 +10,7 @@ A' + B' = NOT(AND(A, B)
 
 A' + B' = (A·B)' 
 
-That is De Morgan's second law. 
+*That is De Morgan's second law.* 
 
 ### №2 (the right one) 
 
@@ -20,4 +20,4 @@ NOT(OR(A, B)) = A' · B'
 
 (A + B)' = A' · B' 
 
-That is De Morgan's second law.
+*That is De Morgan's second law.* 
