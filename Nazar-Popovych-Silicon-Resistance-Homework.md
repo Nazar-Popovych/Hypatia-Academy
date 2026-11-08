@@ -75,7 +75,7 @@ From the previous formula of resistance we can infer:
 
 - $\rho$<sub>new</sub> = 10<sup>-3</sup> · $\rho$<sub>new</sub> = **10<sup>-4</sup> m · Ω**.
 - R<sub>new</sub> = 10<sup>-3</sup> · R<sub>old</sub> = **0.4 Ω**.
-- I = \frac{1}{2} = **2.5 A**.
+- I = $\frac{1}{0.4}$ = **2.5 A**.
 
 - Doping does not by itself change the silicon's physical dimension, such as length, width or thickness, but it does change its resistivity. In particular, as resistivity decreases and as resistance is proportional to it, resistance also decreases.
 
@@ -87,9 +87,9 @@ Along with different conditions of use, such as temperature, that can change the
 
 #### Challenge Question 
 
-65 = \frac{1^{2}}{R} 
+65 = $\frac{1^{2}}{R}$ 
 
-R = \frac{1}{65} ≈ **0.015 Ω** 
+R = $\frac{1}{65}$ ≈ **0.015 Ω** 
 
 That is much lower than previously calculated resistance even after doping. 
 
