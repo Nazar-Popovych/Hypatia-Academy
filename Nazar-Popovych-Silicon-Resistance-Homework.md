@@ -73,7 +73,7 @@ From the previous formula of resistance we can infer:
 
 #### №5 
 
-- $\rho$<sub>new</sub> = 10<sup>-3</sup> · $\rho$<sub>new</sub> = **10<sup>-4</sup> m · Ω**.
+- $\rho$<sub>new</sub> = 10<sup>-3</sup> · $\rho$<sub>old</sub> = **10<sup>-4</sup> Ω · m**.
 - R<sub>new</sub> = 10<sup>-3</sup> · R<sub>old</sub> = **0.4 Ω**.
 - I = $\frac{1}{0.4}$ = **2.5 A**.
 
