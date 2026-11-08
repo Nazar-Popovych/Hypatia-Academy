@@ -5,7 +5,9 @@
 ### 1 (the left one)
 
 OR(NOT(A), NOT(B)) = NAND(A, B) 
+
 A' + B' = NOT(AND(A, B)
+
 A' + B' = (A·B)' 
 
 That is De Morgan's second law. 
@@ -13,7 +15,9 @@ That is De Morgan's second law.
 ### 2 (the right one) 
 
 NOR(A, B) = AND(NOT(A), NOT(B)) 
+
 NOT(OR(A, B)) = A' · B' 
+
 (A + B)' = A' · B' 
 
 That is De Morgan's second law.
