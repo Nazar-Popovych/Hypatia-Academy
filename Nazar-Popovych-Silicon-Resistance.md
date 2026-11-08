@@ -52,9 +52,9 @@ t<sub>new</sub> = 0.5 · t<sub>old</sub>
 
 From 
 
-$
+$$
 \boxed{R = \rho \frac{L}{Wt}}
-$, 
+$$ 
 
 we can see that: 
 
