@@ -46,7 +46,7 @@ $I = \frac{1}{400} = 2.5·10^{-3} A =$ **2.5 mA**
 
 #### №4 
 
-t = 0.25 mm = 2.5 · 10<sup>-4</sup> 
+t = 0.25 mm = 2.5 · 10<sup>-4</sup> m
 
 t<sub>new</sub> = 0.5 · t<sub>old</sub>
 
@@ -73,7 +73,7 @@ From the previous formula of resistance we can infer:
 
 #### №5 
 
-- $\rho$<sub>new</sub> = 10<sup>-3</sup> · $\rho$<sub>new</sub> = **10<sup>-4</sup> Ω**.
+- $\rho$<sub>new</sub> = 10<sup>-3</sup> · $\rho$<sub>new</sub> = **10<sup>-4</sup> m · Ω**.
 - R<sub>new</sub> = 10<sup>-3</sup> · R<sub>old</sub> = **0.4 Ω**.
 - I = \frac{1}{2} = **2.5 A**.
 
@@ -81,7 +81,7 @@ From the previous formula of resistance we can infer:
 
 #### №6 
 
-The calculations assumed that a processor is a solid block of silicon with uniform resistivity. However, an actual processor has lots of different materials for various sub-components inside it, including billions of very small transistors that all have their resistance, and has also very likely gone through doping, introducing impurities that may not appear uniformly. In addition, metal interconnections inside a processor make the current go through certain paths instead of a full solid block, changing the resistance.
+The calculations assumed that a processor is a solid block of silicon with uniform resistivity. However, an actual processor has lots of different materials for various sub-components inside it, including billions of very small transistors that all switch on and off, dynamically changing their and the processor's resistance depending on workload. A processor has also very likely gone through doping, introducing impurities that may not appear uniformly. In addition, metal interconnections inside a processor make the current go through certain paths instead of a full solid block, changing the resistance.
 
 Along with different conditions of use, such as temperature, that can change the physical properties of silicon, assuming that it has uniform resistivity is inaccurate for an actual integrated circuit. 
 
@@ -93,4 +93,4 @@ R = \frac{1}{65} ≈ **0.015 Ω**
 
 That is much lower than previously calculated resistance even after doping. 
 
-One of the possible reasons is that the calculations of effective resistance using power and voltage do not take into account the physical properties of a processor, while the formula of the physical resistance of the silicon substrate assumes that current goes through the whole solid bulk, not metal interconnections and non-linear transistors.
+One of the possible reasons is that the calculations of effective resistance using power and voltage do not take into account the physical properties of a processor, while the formula of the physical resistance of the silicon substrate assumes that current goes through the whole solid bulk, not metal interconnections and non-linear transistors that go in parallel.
