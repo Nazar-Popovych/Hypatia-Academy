@@ -74,3 +74,23 @@ From the previous formula of resistance we can infer:
 #### №5 
 
 - $\rho$<sub>new</sub> = 10<sup>-3</sup> · $\rho$<sub>new</sub> = **10<sup>-4</sup> Ω**.
+- R<sub>new</sub> = 10<sup>-3</sup> · · R<sub>old</sub> = **2 Ω**.
+- I = \frac{1}{2} = **0.5 A**.
+
+- Doping does not by itself change the silicon's physical dimension, such as length, width or thickness, but it does change its resistivity. In particular, as resistivity decreases and as resistance is proportional to it, resistance also decreases.
+
+#### №6 
+
+The calculations assumed that a processor is a solid block of silicon with uniform resistivity. However, an actual processor has lots of different materials for various sub-components inside it, including billions of very small transistors that all have their resistance, and has also very likely gone through doping, introducing impurities that may not appear uniformly. In addition, metal interconnections inside a processor make the current go through certain paths instead of a full solid block, changing the resistance.
+
+Along with different conditions of use, such as temperature, that can change the physical properties of silicon, assuming that it has uniform resistivity is inaccurate for an actual integrated circuit. 
+
+#### Challenge Question 
+
+65 = \frac{1^{2}}{R} 
+
+R = \frac{1}{65} ≈ **0.015 Ω** 
+
+That is much lower than previously calculated resistance even after doping. 
+
+One of the possible reasons is that the calculations of effective resistance using power and voltage do not take into account the physical properties of a processor, while the formula of the physical resistance of the silicon substrate assumes that current goes through the whole solid bulk, not metal interconnections and non-linear transistors.
