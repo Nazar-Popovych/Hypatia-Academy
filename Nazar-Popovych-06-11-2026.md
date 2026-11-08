@@ -2,7 +2,7 @@
 
 # Diana's circuits written algebraically 
 
-### 1 (the left one)
+### №1 (the left one)
 
 OR(NOT(A), NOT(B)) = NAND(A, B) 
 
@@ -12,7 +12,7 @@ A' + B' = (A·B)'
 
 That is De Morgan's second law. 
 
-### 2 (the right one) 
+### №2 (the right one) 
 
 NOR(A, B) = AND(NOT(A), NOT(B)) 
 
