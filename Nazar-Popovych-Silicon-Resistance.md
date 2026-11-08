@@ -36,12 +36,41 @@ $$
 
 $A = 0.01 · 5 · 10<sup>-4</sup> =$ **5 · 10<sup>-6</sup>**
 
-#### №3 
-
 $R = 0.1 \cdot \frac{0.02}{5·10^{-6}} =$ **2000 Ω**
 
-#### №4 
+#### №3 
 
 V = 1 V
 
 $I = \frac{1}{2000} = 5·10^{-4} A =$ **0.5 mA**
+
+#### №4 
+
+t = 0.25 mm = 2.5 · 10<sup>-4</sup> 
+
+t<sub>new</sub> = 0.5 · t<sub>old</sub>
+
+From 
+
+$
+\boxed{R = \rho \frac{L}{Wt}}
+$, 
+
+we can see that: 
+
+- Resistance and thickness are inversely proportional.
+- If thickness decreases, resistance increases.
+- R<sub>new</sub> = 2 · R<sub>old</sub> = **4000 Ω**.
+
+or 
+
+L<sub>new</sub> = 2 · L<sub>old</sub> 
+
+From the previous formula of resistance we can infer: 
+
+- Resistance and length are proportional.
+- R<sub>new</sub> = 2 · R<sub>old</sub> = **4000 Ω**.
+
+#### №5 
+
+- $\rho$<sub>new</sub> = 10<sup>-3</sup> · $\rho$<sub>new</sub> = **10<sup>-4</sup> Ω**.
