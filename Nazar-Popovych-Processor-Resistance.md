@@ -22,4 +22,4 @@ $$
 - Width: 10 mm = **0.01 m** 
 - Thickness: 0.5 mm = **0.0005 m = 5 × 10<sup>-4</sup> m**
 
-- 10 $\Omega \cdot cm$ = **0.1 $\Omega \cdot m$**
+- 10 Ω · cm = **0.1 Ω · m**
